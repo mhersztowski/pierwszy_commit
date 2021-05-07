@@ -1,1 +1,2 @@
 Witaj świecie
+jeszcze jedna linia w pliku.
