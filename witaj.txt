@@ -1,2 +1,3 @@
 Witaj świecie
+dodano alternatywna linie
 jeszcze jedna linia w pliku.
