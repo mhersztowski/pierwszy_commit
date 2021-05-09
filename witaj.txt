@@ -1,3 +1,4 @@
 Witaj świecie
+dodano trzecią wersje linii
 dodano alternatywna linie
 jeszcze jedna linia w pliku.
