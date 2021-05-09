@@ -1,4 +1,4 @@
 Witaj świecie
 dodano trzecią wersje linii
-dodano alternatywna linie
-jeszcze jedna linia w pliku.
+linia testowa
+dodano trzecią wersje liniijeszcze jedna linia w pliku.
