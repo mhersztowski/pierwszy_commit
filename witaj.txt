@@ -1,2 +1,3 @@
 Witaj świecie
+linia testowa
 jeszcze jedna linia w pliku.
